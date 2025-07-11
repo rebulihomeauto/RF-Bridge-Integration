@@ -1,0 +1,11 @@
+{
+    "domain": "rebuli_rf_bridge",
+    "name": "Rebuli RF Bridge",
+    "version": "1.0.0",
+    "documentation": "https://github.com/rebulihomeauto/rebuli_rf_bridge",
+    "issue_tracker": "https://github.com/rebulihomeauto/rebuli_rf_bridge/issues",
+    "dependencies": ["mqtt"],
+    "codeowners": ["@rebulihomeauto"],
+    "requirements": [],
+    "config_flow": true
+}
