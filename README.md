@@ -86,6 +86,8 @@ Any message from an unknown device will be ignored and logged.
 ```json
 { "code": 93994128 }  // Device 0x0009 - Temperature: 23.56°C
 { "code": 111411712 } // Device 0x0009 - Binary ON with auto-off
+```
+
 ---
 
 ## 👤 Author
